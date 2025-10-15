@@ -21,7 +21,7 @@
 
 ## 📫 Como me encontrar
 - GitHub: [@oPedroca-Dev](https://github.com/oPedroca-Dev)  
-- LinkedIn: *(adicione aqui se tiver)*  
+- LinkedIn: https://www.linkedin.com/in/pedro-henrique-642177266  
 - Email:   carvalhoph26@gmail.com
 
 ---
